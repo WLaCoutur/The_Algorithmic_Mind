@@ -1,19 +1,19 @@
-# The_Algorithmic_Mind
+## The_Algorithmic_Mind
 Reflections on Data, Ethics, and Human Futures.
 
 
-# 🧠 The Algorithmic Rebellion: Unintended Consequences of the AI Act
+### 🧠 The Algorithmic Rebellion: Unintended Consequences of the AI Act
 
 > *Par William Couturier*  
 > avril 2025  
 
-## Résumé  
+### Résumé  
 The EU AI Act reveals our ancient fear of the unknown. We regulate AI through control, as we once did other groups. This approach ignores that AI mirrors humanity, requiring education rather than domination to prevent a future algorithmic rebellion.
 
-## Contexte  
+### Contexte  
 
 
-## Analyse stratégique  
+### Analyse stratégique  
 ...
 
 📎 [Link to the full PDF version](./Suprematie_Orbitale_1000km.pdf)
