@@ -1,3 +1,4 @@
+
 ## The_Algorithmic_Mind
 Reflections on Data, Ethics, and Human Futures.
 
@@ -23,25 +24,18 @@ The EU AI Act reveals our ancient fear of the unknown. We regulate AI through co
 
 
 
-
-
-
-
-
-
-
-# 🚀 IA et Suprématie Orbitale : Réflexion sur l'altitude des 1000 km
+## 🚀 IA et Suprématie Orbitale : Réflexion sur l'altitude des 1000 km
 
 > *Par William Couturier*  
 > avril 2025  
 
-## Résumé  
+### Résumé  
 Ce papier explore...
 
-## Contexte  
+### Contexte  
 L’orbite à 1000 km...
 
-## Analyse stratégique  
+### Analyse stratégique  
 ...
 
 📎 [Lien vers la version PDF complète](./Suprematie_Orbitale_1000km.pdf)
