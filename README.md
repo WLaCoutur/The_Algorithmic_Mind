@@ -17,7 +17,7 @@ The EU AI Act reveals our ancient fear of the unknown. We regulate AI through co
 ### Analyse stratégique  
 ...
 
-📎 [Link to the full PDF version](./Suprematie_Orbitale_1000km.pdf)
+📎 [Link to the full PDF version](./The Algorithmic Rebellion.pdf)
 
 
 
